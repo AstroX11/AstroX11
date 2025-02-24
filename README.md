@@ -23,7 +23,8 @@ I like working on projects, experimenting with code, and understanding how thing
 `Adobe Premier Pro`
 `Adobe After Effect`
 
-**Stats**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstroX11&layout=compact&theme=merko)
-
+**Contributions**
+`WhiskeySockets/Baileys`
+`Neeraj-x0/X-Asena`
+`mouricedevske/gifted-md`
+`others...`
