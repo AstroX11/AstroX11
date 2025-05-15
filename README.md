@@ -1,7 +1,3 @@
-# 👾 AstroX11
-
-> Code from orbit. 🚀
-
 **I build with:**
 
 <p align="left">
@@ -13,7 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/oven-sh/bun/main/assets/logo-dark.svg" title="Bun" width="30" height="30"/>
+  <img src="https://avatars.githubusercontent.com/u/108928776?s=200&v=4" title="Bun" width="30" height="30"/>
 </p>
 
 🛰️ Systems. Scripts. Simulations.  
