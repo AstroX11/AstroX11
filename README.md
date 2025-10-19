@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m <strong>AstroX11</strong></h1>
+<h1 align="center">Hi, I’m <strong>AstroX11 (Daniel)</strong></h1>
 
 <p align="center">
   I’m a <strong>Software Engineering Student</strong> contributing and developing critical systems<br/>
